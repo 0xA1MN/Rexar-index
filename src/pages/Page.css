@@ -1,0 +1,27 @@
+.page {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  background-color: #000000;
+}
+
+.page-container {
+  max-width: 800px;
+  text-align: center;
+}
+
+.page-title {
+  font-size: 3rem;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.5px;
+  color: #ffffff;
+}
+
+.page-text {
+  font-size: 1.2rem;
+  color: #999999;
+  line-height: 1.6;
+}
