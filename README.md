@@ -34,3 +34,4 @@ npm run build
 - React Router DOM
 - Pure CSS (no heavy UI libraries)
 # Rexar-index
+# Rexar-index
